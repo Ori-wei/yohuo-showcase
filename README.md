@@ -2,7 +2,7 @@
 
 > *有没有货？* — "Got stock?" is the question every customer asks. **YoHuo!** answers it.
 
-A phone-first stock management app I built for my father's alcohol wholesale business.
+A phone-first stock management app I built for my father's wholesale business.
 He runs everything alone, from his phone, and used to keep stock levels in his head.
 Now he can tell a customer exactly what's available, from anywhere.
 
