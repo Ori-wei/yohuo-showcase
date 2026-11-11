@@ -32,7 +32,6 @@ Now he can tell a customer exactly what's available, from anywhere.
 - **Reserved stock.** Mark cartons ordered specially for a customer. Anything waiting more than 14 days gets highlighted.
 - **Oversell protection.** It warns before stock goes below zero, allows it after you confirm, and flags it.
 - **Customers & suppliers.** Includes importing contacts straight from the phone.
-- **Signs in once per phone.** No login screen in daily use; the data stays private.
 
 ## Roadmap
 
